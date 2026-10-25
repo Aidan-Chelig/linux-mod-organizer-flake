@@ -1,0 +1,44 @@
+{
+  "nodes": {
+    "lmo-src": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1787688506,
+        "narHash": "sha256-fwa+mQNT0EH5Yj8AVGF33hbOewV8tRA9TgPtMFsn86A=",
+        "ref": "refs/heads/master",
+        "rev": "377c53f81354ad1622743b66723c18224a9a754e",
+        "revCount": 905,
+        "type": "git",
+        "url": "https://codeberg.org/enoki/linux-mod-organizer"
+      },
+      "original": {
+        "type": "git",
+        "url": "https://codeberg.org/enoki/linux-mod-organizer"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1792773339,
+        "narHash": "sha256-rZLrzrC6i+jnTAlvPZHogKDulY7WWDEv9hJeHieO7Zw=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "ref": "nixos-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "lmo-src": "lmo-src",
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
