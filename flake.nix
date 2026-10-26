@@ -4,7 +4,7 @@
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
     lmo-src = {
-      url = "git+https://codeberg.org/enoki/linux-mod-organizer";
+      url = "git+https://codeberg.org/icyhate/linux-mod-organizer";
       flake = false;
     };
   };
