@@ -3,17 +3,17 @@
     "lmo-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1787688506,
-        "narHash": "sha256-fwa+mQNT0EH5Yj8AVGF33hbOewV8tRA9TgPtMFsn86A=",
+        "lastModified": 1792981021,
+        "narHash": "sha256-p8SJMiDTFueC5mNBWNoBF7oMiZ1NpV+0GKKMAtAVXVg=",
         "ref": "refs/heads/master",
-        "rev": "377c53f81354ad1622743b66723c18224a9a754e",
-        "revCount": 905,
+        "rev": "7f9bc9a6365826eff941f6fe865f8d75efecf447",
+        "revCount": 906,
         "type": "git",
-        "url": "https://codeberg.org/enoki/linux-mod-organizer"
+        "url": "https://codeberg.org/icyhate/linux-mod-organizer"
       },
       "original": {
         "type": "git",
-        "url": "https://codeberg.org/enoki/linux-mod-organizer"
+        "url": "https://codeberg.org/icyhate/linux-mod-organizer"
       }
     },
     "nixpkgs": {
